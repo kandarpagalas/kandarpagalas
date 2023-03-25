@@ -1,5 +1,5 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://github.com/kandarpagalas)](https://www.linkedin.com/in/steniowagner/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/kandarpa/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://github.com/kandarpagalas)](https://www.linkedin.com/in/kandarpagalas/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/kandarpa/)](https://www.instagram.com/kandarpa/)
 
 <!--
 **kandarpagalas/kandarpagalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
